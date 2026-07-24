@@ -30,18 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truelineofficail-hub&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=truelineofficail-hub&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
