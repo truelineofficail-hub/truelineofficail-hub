@@ -33,8 +33,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truelineofficail-hub&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truelineofficail-hub" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=truelineofficail-hub&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=truelineofficail-hub&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
@@ -42,6 +45,5 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:truelineofficail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
