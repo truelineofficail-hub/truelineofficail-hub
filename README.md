@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Harsh Rajput 👋</h1>
-<h3 align="center">Front-End Web Developer | Building clean, responsive UIs with HTML, CSS & JS</h3>
 
 <div align="center">
 
