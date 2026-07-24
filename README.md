@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Harsh Rajput 👋</h1>
 <h3 align="center">Front-End Web Developer | Building clean, responsive UIs with HTML, CSS & JS</h3>
 
-<p align="center">
-  📍 Delhi, India &nbsp;•&nbsp;
-  💻 Front-end focused &nbsp;•&nbsp;
-  🌱 Always shipping new UI projects
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Harsh%20Rajput&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Building+Clean+%26+Responsive+UIs;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
+
+📍 Delhi, India &nbsp;•&nbsp; 🌱 Always shipping new UI projects
+
+</div>
 
 ---
+
+
 
 ### 🚀 Featured Projects
 
