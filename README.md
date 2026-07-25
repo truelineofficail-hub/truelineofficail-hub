@@ -17,10 +17,10 @@
 
 | Project | Description | Live Demo |
 |---|---|---|
-| 🛍️ **[S-Mart](https://github.com/truelineofficail-hub/S-Mart)** | A jewelry e-commerce front-end with product category pages (rings, earrings, bracelets, necklaces) | [View Live](https://truelineofficail-hub.github.io/S-Mart/) |
-| 👜 **[Leather-](https://github.com/truelineofficail-hub/Leather-)** | Product showcase site for leather goods, built with custom CSS styling | [View Live](https://truelineofficail-hub.github.io/Leather-/) |
 | ⚔️ **[Jujutsu-kaisen-](https://github.com/truelineofficail-hub/Jujutsu-kaisen-)** | Anime-themed fan site with character showcases and custom layout | [View Live](https://truelineofficail-hub.github.io/Jujutsu-kaisen-/) |
 | 🎬 **[Anime-recommendations-](https://github.com/truelineofficail-hub/Anime-recommendations-)** | A recommendation-style site for discovering anime titles | [View Live](https://truelineofficail-hub.github.io/Anime-recommendations-/) |
+| 🛍️ **[S-Mart](https://github.com/truelineofficail-hub/S-Mart)** | A jewelry e-commerce front-end with product category pages (rings, earrings, bracelets, necklaces) | [View Live](https://truelineofficail-hub.github.io/S-Mart/) |
+| 👜 **[Leather-](https://github.com/truelineofficail-hub/Leather-)** | Product showcase site for leather goods, built with custom CSS styling | [View Live](https://truelineofficail-hub.github.io/Leather-/) |
 
 ---
 
